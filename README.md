@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados com Power BI
+# Projeto de Análise/Visualização de Dados com Power BI
 
 Este projeto consiste na criação de dois dashboards usando o **Power BI**, como atividades práticas do **Curso Microsoft Power BI Desktop for Business Intelligence**.
 
